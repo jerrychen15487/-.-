@@ -1,0 +1,83 @@
+// Tang Mega 60K + NEO Dock (GW5AT-LV60PG484AC1/I0)
+IO_LOC  "sys_clk" V22;
+IO_PORT "sys_clk" IO_TYPE=LVCMOS33 PULL_MODE=NONE BANK_VCCIO=3.3;
+
+// NEO Dock KEY0 (AA13), used here as an optional active-low manual reset.
+// The design also contains its own power-on reset and does not require a
+// button press after downloading the bitstream.
+IO_LOC  "sys_rst_n" AA13;
+IO_PORT "sys_rst_n" IO_TYPE=LVCMOS15 PULL_MODE=UP BANK_VCCIO=1.5;
+// NEO Dock KEY1, active low. Short: piano-roll/pause; long from waveform:
+// stored score page; short there toggles staff/jianpu, long exits.
+IO_LOC  "view_key_n" AB13;
+IO_PORT "view_key_n" IO_TYPE=LVCMOS15 PULL_MODE=UP BANK_VCCIO=1.5;
+// NEO Dock KEY2, active low. Toggles normal play / four-tone spectrum test.
+IO_LOC  "spectrum_key_n" Y12;
+IO_PORT "spectrum_key_n" IO_TYPE=LVCMOS15 PULL_MODE=UP BANK_VCCIO=1.5;
+
+// J9 PMOD0 pin 11: ESP32 GPIO17 TX -> FPGA UART RX.
+IO_LOC  "uart_rx_i" P19;
+IO_PORT "uart_rx_i" IO_TYPE=LVCMOS33 PULL_MODE=UP BANK_VCCIO=3.3;
+
+// Independent F3 score UART v2 (1 Mbps), J9 / PMOD0 bank 7.
+// ESP32 GPIO17 TX -> J9 pin 9 (FPGA T21); ESP32 GPIO18 RX <-
+// J9 pin 10 (FPGA U21). Do not connect either signal to J9 pins 11/12.
+IO_LOC  "score_uart_rx_i" T21;
+IO_PORT "score_uart_rx_i" IO_TYPE=LVCMOS33 PULL_MODE=UP BANK_VCCIO=3.3;
+IO_LOC  "score_uart_tx_o" U21;
+IO_PORT "score_uart_tx_o" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+
+// NEO Dock J31 microSD is shared with BL616. SW2-5/6 must be EVB/ON.
+IO_LOC "sd_cs_n" W15;
+IO_LOC "sd_sck" V15;
+IO_LOC "sd_mosi" Y16;
+IO_LOC "sd_miso" AA15;
+IO_PORT "sd_cs_n" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_PORT "sd_sck" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_PORT "sd_mosi" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_PORT "sd_miso" IO_TYPE=LVCMOS33 PULL_MODE=UP BANK_VCCIO=3.3;
+
+// New ESP32-S3 SPI2 real-time MIDI link on NEO Dock J9 / PMOD0.
+// GPIO12 SCLK -> J9 pin 5, GPIO11 MOSI -> pin 6,
+// GPIO10 CS -> pin 7, GPIO13 READY <- pin 8.
+IO_LOC  "spi_sclk_i" R18;
+IO_PORT "spi_sclk_i" IO_TYPE=LVCMOS33 PULL_MODE=NONE BANK_VCCIO=3.3;
+IO_LOC  "spi_mosi_i" T18;
+IO_PORT "spi_mosi_i" IO_TYPE=LVCMOS33 PULL_MODE=NONE BANK_VCCIO=3.3;
+IO_LOC  "spi_cs_n_i" P16;
+IO_PORT "spi_cs_n_i" IO_TYPE=LVCMOS33 PULL_MODE=UP BANK_VCCIO=3.3;
+IO_LOC  "spi_ready_o" R17;
+IO_PORT "spi_ready_o" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+
+// J9 PMOD0 pin 12: optional debug output, high while a note is held.
+IO_LOC  "debug_gate" R19;
+IO_PORT "debug_gate" IO_TYPE=LVCMOS33 PULL_MODE=DOWN DRIVE=8 BANK_VCCIO=3.3;
+
+// NEO Dock PT8211-S DAC and NS4263 amplifier.
+IO_LOC  "HP_BCK" Y17;
+IO_LOC  "HP_WS"  AB17;
+IO_LOC  "HP_DIN" AA16;
+IO_LOC  "PA_EN"  AB16;
+IO_PORT "HP_BCK" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_PORT "HP_WS"  IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_PORT "HP_DIN" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_PORT "PA_EN"  IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+
+// External PCM5102A on J8/PMOD1. These pins are separate from PT8211.
+// J8 pin 11 = PMOD1_IO0, pin 9 = IO2, pin 7 = IO4; J8 pin 3/4 = GND.
+IO_LOC  "PCM_BCK" Y21;
+IO_LOC  "PCM_WS"  AB21;
+IO_LOC  "PCM_DIN" AA20;
+IO_PORT "PCM_BCK" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_PORT "PCM_WS"  IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+IO_PORT "PCM_DIN" IO_TYPE=LVCMOS33 PULL_MODE=NONE DRIVE=8 BANK_VCCIO=3.3;
+
+// NEO Dock J29 DVI/HDMI transmitter. Each IO_LOC pair is P,N.
+IO_LOC  "tmds_d_p_0[0]" J14,H14;
+IO_PORT "tmds_d_p_0[0]" IO_TYPE=LVDS25E PULL_MODE=NONE DRIVE=8 BANK_VCCIO=2.5;
+IO_LOC  "tmds_d_p_0[1]" J15,H15;
+IO_PORT "tmds_d_p_0[1]" IO_TYPE=LVDS25E PULL_MODE=NONE DRIVE=8 BANK_VCCIO=2.5;
+IO_LOC  "tmds_d_p_0[2]" K17,J17;
+IO_PORT "tmds_d_p_0[2]" IO_TYPE=LVDS25E PULL_MODE=NONE DRIVE=8 BANK_VCCIO=2.5;
+IO_LOC  "tmds_clk_p_0"  G15,G16;
+IO_PORT "tmds_clk_p_0"  IO_TYPE=LVDS25E PULL_MODE=NONE DRIVE=8 BANK_VCCIO=2.5;

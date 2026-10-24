@@ -1,0 +1,22 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+*.user
+*.log
+
+# FPGA generated outputs
+fpga/impl/pnr/*
+!fpga/impl/pnr/midi_basic_synth_20261022_1941_PCM5102_USER_VERIFIED.fs
+!fpga/impl/pnr/midi_basic_synth_20261022_1941_PCM5102_USER_VERIFIED_tr_content.html
+*.vvp
+*.vcd
+
+# ESP-IDF and host test outputs
+esp32/build*/
+esp32/managed_components/
+esp32/sdkconfig
+esp32/sdkconfig.old
+esp32/build-cache/
+esp32/__pycache__/
+*.pyc
+*.exe
