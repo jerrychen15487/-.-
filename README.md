@@ -6,7 +6,7 @@ Tang Mega 60K FPGA 实时电子乐器系统。USB-MIDI 电钢琴和摇杆经 ESP
 
 - `fpga/`：Gowin 工程、RTL、约束、仿真脚本与 2026-10-22 19:41 用户确认出声位流及配对时序报告。
 - `esp32/`：ESP-IDF v6.1 工程的现役源码、构建脚本与测试。该目录是工作区快照，包含本地尚未提交到上游 `codex/v2.0` 的摇杆／延迟诊断改动。
-- `docs/`：参赛简介、技术报告文本、视频分镜和提交边界。
+- `docs/`：参赛简介、[最终版技术报告](docs/弦域织音-技术报告-最终版.pdf)、[可编辑正文](docs/技术报告-正文.md)、视频分镜和提交边界。
 
 曲谱网页由团队独立公开维护：[piano-score-library](https://github.com/W-JOSLIN-X/piano-score-library)。本仓不复制其开发历史和本地未提交改动；提交页应同时引用该原始仓库。网页使用 Nuxt UI Templates 的 MIT 授权；曲目素材的来源和授权见网页原仓。
 
