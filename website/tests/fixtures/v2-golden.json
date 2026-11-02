@@ -1,0 +1,17 @@
+{
+  "caps_frame_hex":"a55a02010100000001000000000000001e284cba",
+  "note_hex":"c0030000e00100003c04020707000000",
+  "data_payload_hex":"00112233445566778899aabbccddeeff0300000050534332",
+  "data_expected":{"id":"00112233-4455-6677-8899-aabbccddeeff","block":3,"file_hex":"50534332"},
+  "caps":{"request_type":1,"protocol":2,"package_major":2,"uart_version":2,"max_payload":1024,"block_bytes":512,"max_write":128,"max_file_bytes":4194304,"max_notes":20000,"max_complete_songs":16,"max_partial_songs":4,"max_sections":128,"max_pages":64,"storage_flags":1,"profile_count":1,"profiles":[1]},
+  "status":{"request_type":2,"generation":7,"mode":0,"phase":1,"free_bytes":"9007199254740993","active_id":"00112233-4455-6677-8899-aabbccddeeff","next_block":1,"total_blocks":2},
+  "list":{"request_type":3,"generation":7,"next_cursor":null,"items":[{"id":"00112233-4455-6677-8899-aabbccddeeff","title":"测试","entry_state":1,"total_bytes":516,"file_crc":305419896,"capabilities":1,"next_block":1,"total_blocks":2}]},
+  "begin_ack":{"request_type":16,"id":"00112233-4455-6677-8899-aabbccddeeff","next_block":1,"total_blocks":2,"saved_bytes":512},
+  "data_ack":{"request_type":17,"id":"00112233-4455-6677-8899-aabbccddeeff","next_block":2,"total_blocks":2,"saved_bytes":516},
+  "pause_ack":{"request_type":19,"id":"00112233-4455-6677-8899-aabbccddeeff","next_block":1,"total_blocks":2,"saved_bytes":512},
+  "commit_ack":{"request_type":18,"id":"00112233-4455-6677-8899-aabbccddeeff","file_crc":305419896,"entry_state":2},
+  "delete_ack":{"request_type":20,"id":"00112233-4455-6677-8899-aabbccddeeff","deleted":true},
+  "error":{"request_type":17,"code":5,"next_block":1},
+  "changed":{"generation":8,"mode":3,"phase":0},
+  "changed_header":{"type":144,"session":0,"seq":0}
+}

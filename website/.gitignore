@@ -1,0 +1,43 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Auto-generated type declarations
+auto-imports.d.ts
+components.d.ts
+tsconfig.app.tsbuildinfo
+tsconfig.node.tsbuildinfo
+
+# Environment variables
+.env
+.playwright-cli/
+output/
+test-results/
+playwright-report/
+
+# Local development records (versioned separately on the developer machine)
+/AGENTS.md
+/CONTEXT.md
+/docs/
+/.local-docs.git/

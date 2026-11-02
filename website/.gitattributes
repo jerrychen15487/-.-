@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.pseq binary
+# Preserve third-party source bytes, including intentional original whitespace.
+sources/mutopia/*.ly -text -whitespace

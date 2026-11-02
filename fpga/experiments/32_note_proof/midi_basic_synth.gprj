@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW5AT-60B" pn="GW5AT-LV60PG484AC1/I0">gw5at60b-002</Device>
+    <FileList>
+        <File path="src/basic_dds_synth.v" type="file.verilog" enable="1"/>
+        <File path="src/additive32_synth.v" type="file.verilog" enable="1"/>
+        <File path="src/piano32_poly_synth.v" type="file.verilog" enable="1"/>
+        <File path="src/spectrum_test_pattern.v" type="file.verilog" enable="1"/>
+        <File path="src/spectrum_mode_key.v" type="file.verilog" enable="1"/>
+        <File path="src/echo_delay.v" type="file.verilog" enable="1"/>
+        <File path="src/video_pll.v" type="file.verilog" enable="1"/>
+        <File path="src/video_timing_640x480.v" type="file.verilog" enable="1"/>
+        <File path="src/dvi_tmds_encoder.v" type="file.verilog" enable="1"/>
+        <File path="src/dvi_tmds_phy.v" type="file.verilog" enable="1"/>
+        <File path="src/midi_visualizer.v" type="file.verilog" enable="1"/>
+        <File path="src/score_demo_clock.v" type="file.verilog" enable="1"/>
+        <File path="src/f5_score_clock.v" type="file.verilog" enable="1"/>
+        <File path="src/practice_onset_match.v" type="file.verilog" enable="1"/>
+        <File path="src/practice_onset_stats.v" type="file.verilog" enable="1"/>
+        <File path="src/practice_combo_video.v" type="file.verilog" enable="1"/>
+        <File path="src/practice_stats_video.v" type="file.verilog" enable="1"/>
+        <File path="src/view_key_control.v" type="file.verilog" enable="1"/>
+        <File path="src/piano_blocks_demo.v" type="file.verilog" enable="1"/>
+        <File path="src/piano_preview_cache.v" type="file.verilog" enable="1"/>
+        <File path="src/score_page_cache.v" type="file.verilog" enable="1"/>
+        <File path="src/score_page_video.v" type="file.verilog" enable="1"/>
+        <File path="src/fft64_spectrum.v" type="file.verilog" enable="1"/>
+        <File path="src/midi_frame_rx.v" type="file.verilog" enable="1"/>
+        <File path="src/spi_midi_frame_rx.v" type="file.verilog" enable="1"/>
+        <File path="src/poly_voice_ctrl.v" type="file.verilog" enable="1"/>
+        <File path="src/poly32_light_synth.v" type="file.verilog" enable="1"/>
+        <File path="src/pt8211_tx.v" type="file.verilog" enable="1"/>
+        <File path="src/pcm5102_i2s_tx.v" type="file.verilog" enable="1"/>
+        <File path="src/top.v" type="file.verilog" enable="1"/>
+        <File path="src/uart_rx.v" type="file.verilog" enable="1"/>
+        <File path="src/score_uart_tx.v" type="file.verilog" enable="1"/>
+        <File path="src/score_uart_v2_transport.v" type="file.verilog" enable="1"/>
+        <File path="src/sd_storage_lba.v" type="file.verilog" enable="1"/>
+        <File path="src/sd_spi_block_device.v" type="file.verilog" enable="1"/>
+        <File path="src/sd_directory_mount.v" type="file.verilog" enable="1"/>
+        <File path="src/sd_directory_image.v" type="file.verilog" enable="1"/>
+        <File path="src/sd_directory_copy_write.v" type="file.verilog" enable="1"/>
+        <File path="src/sd_score_block_verify.v" type="file.verilog" enable="1"/>
+        <File path="src/sd_score_progress_scan.v" type="file.verilog" enable="1"/>
+        <File path="src/sd_score_block_write.v" type="file.verilog" enable="1"/>
+        <File path="src/sd_score_file_validate.v" type="file.verilog" enable="1"/>
+        <File path="src/psc2_note_stream.v" type="file.verilog" enable="1"/>
+        <File path="src/sd_score_note_read.v" type="file.verilog" enable="1"/>
+        <File path="src/psc2_page_index.v" type="file.verilog" enable="1"/>
+        <File path="src/sd_score_page_read.v" type="file.verilog" enable="1"/>
+        <File path="src/score_store_v2.v" type="file.verilog" enable="1"/>
+        <File path="src/score_store_sd.v" type="file.verilog" enable="1"/>
+        <File path="src/midi_basic_synth.cst" type="file.cst" enable="1"/>
+        <File path="src/timing.sdc" type="file.sdc" enable="1"/>
+        <File path="src/adsr_debug.gao" type="file.gao" enable="0"/>
+    </FileList>
+</Project>

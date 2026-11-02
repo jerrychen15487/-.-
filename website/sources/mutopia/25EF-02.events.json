@@ -1,0 +1,5056 @@
+{
+  "piece": "02",
+  "recipe": {
+    "title": "阿拉贝斯克",
+    "numerator": 2,
+    "bpm": 152,
+    "bars": 33,
+    "route": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ]
+  },
+  "source_sha256": "9ee203a6c2059700b10d45a7a1fd7a122803793af9a2e328d634bee538819a94",
+  "events": [
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 0,
+      "duration": 1920,
+      "duration_log": 1,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 0,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 0,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 0,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "articulation",
+      "part": 1,
+      "tick": 0,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "dynamic",
+      "part": 1,
+      "tick": 0,
+      "values": [
+        "p"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 960,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 960,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 960,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "articulation",
+      "part": 1,
+      "tick": 960,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 1920,
+      "duration": 1920,
+      "duration_log": 1,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 1920,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 1920,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 1920,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "articulation",
+      "part": 1,
+      "tick": 1920,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 2880,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 2880,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 2880,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "articulation",
+      "part": 1,
+      "tick": 2880,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 3840,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 69,
+      "notename": 5,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 2,
+      "tick": 3840,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "text",
+      "part": 2,
+      "tick": 3840,
+      "values": [
+        "p leggieremente"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 3840,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 3840,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 3840,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 3840,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 4080,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 71,
+      "notename": 6,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 4320,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 72,
+      "notename": 0,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 4560,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 71,
+      "notename": 6,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 4800,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 69,
+      "notename": 5,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 4800,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 4800,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 4800,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 4800,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 4800,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 5280,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 5760,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 69,
+      "notename": 5,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 5760,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 5760,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 5760,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 5760,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 6000,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 71,
+      "notename": 6,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 6240,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 72,
+      "notename": 0,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 6480,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 74,
+      "notename": 1,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 6720,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 76,
+      "notename": 2,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 6720,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 6720,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 6720,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 6720,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 6720,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 7200,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 7680,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 74,
+      "notename": 1,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 2,
+      "tick": 7680,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 7680,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 7680,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 7680,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 7680,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 65,
+      "notename": 3,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "text",
+      "part": 1,
+      "tick": 7680,
+      "values": [
+        "cresc."
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 7920,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 76,
+      "notename": 2,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 8160,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 77,
+      "notename": 3,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 8400,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 79,
+      "notename": 4,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 8640,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 81,
+      "notename": 5,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 8640,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 8640,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 8640,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 8640,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 8640,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 65,
+      "notename": 3,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 9120,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 9600,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 81,
+      "notename": 5,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 2,
+      "tick": 9600,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 9600,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 9600,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 9600,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 9600,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 9840,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 83,
+      "notename": 6,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 10080,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 84,
+      "notename": 0,
+      "octave": 2,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 10320,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 86,
+      "notename": 1,
+      "octave": 2,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 10560,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 88,
+      "notename": 2,
+      "octave": 2,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 10560,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 10560,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 10560,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 10560,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 10560,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 11040,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 11520,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 11520,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 55,
+      "notename": 4,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": [
+        1
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 11520,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": [
+        3
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 11520,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": [
+        5
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 12000,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 76,
+      "notename": 2,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 12000,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "finger",
+      "part": 2,
+      "tick": 12000,
+      "values": [
+        "3"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 12480,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 76,
+      "notename": 2,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 12480,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 12480,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 55,
+      "notename": 4,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 12480,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 12480,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 12960,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 77,
+      "notename": 3,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 13440,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 74,
+      "notename": 1,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 13440,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 13440,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 13440,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 55,
+      "notename": 4,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 13440,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 59,
+      "notename": 6,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 13440,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 65,
+      "notename": 3,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 13920,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 14400,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 74,
+      "notename": 1,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 14400,
+      "values": [
+        "accent"
+      ]
+    },
+    {
+      "kind": "tie",
+      "part": 2,
+      "tick": 14400,
+      "values": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 14400,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 55,
+      "notename": 4,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 14400,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 59,
+      "notename": 6,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 14400,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 65,
+      "notename": 3,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 15360,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 74,
+      "notename": 1,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 15360,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 55,
+      "notename": 4,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 15360,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 59,
+      "notename": 6,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 15360,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 65,
+      "notename": 3,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 15840,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 79,
+      "notename": 4,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 15840,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 16320,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 74,
+      "notename": 1,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 16320,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 55,
+      "notename": 4,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 16320,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 59,
+      "notename": 6,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 16320,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 65,
+      "notename": 3,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 16800,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 76,
+      "notename": 2,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 17280,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 72,
+      "notename": 0,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 17280,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 17280,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 17280,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 17280,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 17760,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "rest",
+      "part": 1,
+      "tick": 17760,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 18240,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 76,
+      "notename": 2,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 2,
+      "tick": 18240,
+      "values": [
+        "5"
+      ]
+    },
+    {
+      "kind": "dynamic",
+      "part": 2,
+      "tick": 18240,
+      "values": [
+        "sf"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 18240,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 19200,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 72,
+      "notename": 0,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 19200,
+      "duration": 1440,
+      "duration_log": 2,
+      "dots": 1,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 19200,
+      "duration": 1440,
+      "duration_log": 2,
+      "dots": 1,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 20160,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 84,
+      "notename": 0,
+      "octave": 2,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 20160,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 20640,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "rest",
+      "part": 1,
+      "tick": 20640,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 21120,
+      "duration": 1440,
+      "duration_log": 2,
+      "dots": 1,
+      "pitch": 76,
+      "notename": 2,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 2,
+      "tick": 21120,
+      "values": [
+        "5"
+      ]
+    },
+    {
+      "kind": "dynamic",
+      "part": 2,
+      "tick": 21120,
+      "values": [
+        "f"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 21120,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 21120,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 56,
+      "notename": 4,
+      "octave": -1,
+      "alteration": "1/2",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 1,
+      "tick": 21120,
+      "values": [
+        "3"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 1,
+      "tick": 21120,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 21360,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 21600,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 59,
+      "notename": 6,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 21840,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 22080,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 56,
+      "notename": 4,
+      "octave": -1,
+      "alteration": "1/2",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 1,
+      "tick": 22080,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 1,
+      "tick": 22080,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 22560,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 71,
+      "notename": 6,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "rest",
+      "part": 1,
+      "tick": 22560,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 23040,
+      "duration": 1440,
+      "duration_log": 2,
+      "dots": 1,
+      "pitch": 72,
+      "notename": 0,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 23040,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 23040,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 1,
+      "tick": 23040,
+      "values": [
+        "5"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 1,
+      "tick": 23040,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 23280,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 59,
+      "notename": 6,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 23520,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 23760,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 24000,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 1,
+      "tick": 24000,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 1,
+      "tick": 24000,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 24480,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 69,
+      "notename": 5,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 24480,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "rest",
+      "part": 1,
+      "tick": 24480,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 24960,
+      "duration": 1440,
+      "duration_log": 2,
+      "dots": 1,
+      "pitch": 76,
+      "notename": 2,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 24960,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 56,
+      "notename": 4,
+      "octave": -1,
+      "alteration": "1/2",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 1,
+      "tick": 24960,
+      "values": [
+        "3"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 1,
+      "tick": 24960,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 25200,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 25440,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 59,
+      "notename": 6,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 25680,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 25920,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 56,
+      "notename": 4,
+      "octave": -1,
+      "alteration": "1/2",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 1,
+      "tick": 25920,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 1,
+      "tick": 25920,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 26400,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 71,
+      "notename": 6,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "rest",
+      "part": 1,
+      "tick": 26400,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 26880,
+      "duration": 1440,
+      "duration_log": 2,
+      "dots": 1,
+      "pitch": 72,
+      "notename": 0,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 26880,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 26880,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 1,
+      "tick": 26880,
+      "values": [
+        "5"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 1,
+      "tick": 26880,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 27120,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 59,
+      "notename": 6,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 27360,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 27600,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 27840,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 1,
+      "tick": 27840,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 1,
+      "tick": 27840,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 28320,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 69,
+      "notename": 5,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 28320,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "rest",
+      "part": 1,
+      "tick": 28320,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 28800,
+      "duration": 1440,
+      "duration_log": 2,
+      "dots": 1,
+      "pitch": 81,
+      "notename": 5,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 28800,
+      "values": [
+        "accent"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 28800,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 61,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "1/2",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 1,
+      "tick": 28800,
+      "values": [
+        "3"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 1,
+      "tick": 28800,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 29040,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 29280,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 29520,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 29760,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 61,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "1/2",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 1,
+      "tick": 29760,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 1,
+      "tick": 29760,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 30240,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 76,
+      "notename": 2,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 2,
+      "tick": 30240,
+      "values": [
+        "2"
+      ]
+    },
+    {
+      "kind": "rest",
+      "part": 1,
+      "tick": 30240,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 30720,
+      "duration": 1440,
+      "duration_log": 2,
+      "dots": 1,
+      "pitch": 77,
+      "notename": 3,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 30720,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 1,
+      "tick": 30720,
+      "values": [
+        "5"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 1,
+      "tick": 30720,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 30960,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 31200,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 65,
+      "notename": 3,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 31440,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 67,
+      "notename": 4,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 31680,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 69,
+      "notename": 5,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 1,
+      "tick": 31680,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 1,
+      "tick": 31680,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 32160,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 76,
+      "notename": 2,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 32160,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 32160,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 32160,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 67,
+      "notename": 4,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 1,
+      "tick": 32160,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 32640,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 74,
+      "notename": 1,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "text",
+      "part": 2,
+      "tick": 32640,
+      "values": [
+        "dim. e poco rall."
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 32640,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 65,
+      "notename": 3,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 1,
+      "tick": 32640,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 33120,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 72,
+      "notename": 0,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 2,
+      "tick": 33120,
+      "values": [
+        "3"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 33120,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 33600,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 71,
+      "notename": 6,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 33600,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 34080,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 69,
+      "notename": 5,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 34080,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 63,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "1/2",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 34560,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 68,
+      "notename": 4,
+      "octave": 0,
+      "alteration": "1/2",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 34560,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 35040,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 35520,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 76,
+      "notename": 2,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 2,
+      "tick": 35520,
+      "values": [
+        "5"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 35520,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 36000,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 59,
+      "notename": 6,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 36480,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 69,
+      "notename": 5,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 2,
+      "tick": 36480,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "text",
+      "part": 2,
+      "tick": 36480,
+      "values": [
+        "a tempo"
+      ]
+    },
+    {
+      "kind": "dynamic",
+      "part": 2,
+      "tick": 36480,
+      "values": [
+        "p"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 36480,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 36480,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 36480,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 36480,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 36480,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 1,
+      "tick": 36480,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 36720,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 71,
+      "notename": 6,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 36960,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 72,
+      "notename": 0,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 37200,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 71,
+      "notename": 6,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 37440,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 69,
+      "notename": 5,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 37440,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 37440,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 37440,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 37440,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 37440,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 37920,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 38400,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 69,
+      "notename": 5,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 38400,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 38400,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 38400,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 38400,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 38640,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 71,
+      "notename": 6,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 38880,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 72,
+      "notename": 0,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 39120,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 74,
+      "notename": 1,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 39360,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 76,
+      "notename": 2,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 39360,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 39360,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 39360,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 39360,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 39360,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 39840,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 40320,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 74,
+      "notename": 1,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 2,
+      "tick": 40320,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 40320,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 40320,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 40320,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 40320,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 65,
+      "notename": 3,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "text",
+      "part": 1,
+      "tick": 40320,
+      "values": [
+        "cresc."
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 40560,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 76,
+      "notename": 2,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 40800,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 77,
+      "notename": 3,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 41040,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 79,
+      "notename": 4,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 41280,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 81,
+      "notename": 5,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 41280,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 41280,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 41280,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 41280,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 41280,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 65,
+      "notename": 3,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 41760,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 42240,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 81,
+      "notename": 5,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 2,
+      "tick": 42240,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 42240,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 42240,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 42240,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 42240,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 42480,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 83,
+      "notename": 6,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 42720,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 84,
+      "notename": 0,
+      "octave": 2,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 42960,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 86,
+      "notename": 1,
+      "octave": 2,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 43200,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 88,
+      "notename": 2,
+      "octave": 2,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 43200,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 43200,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 43200,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 43200,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 43200,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 43680,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 44160,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 44160,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 44160,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 44160,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "dynamic",
+      "part": 1,
+      "tick": 44160,
+      "values": [
+        "p"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 44640,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 71,
+      "notename": 6,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 44640,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "finger",
+      "part": 2,
+      "tick": 44640,
+      "values": [
+        "2"
+      ]
+    },
+    {
+      "kind": "text",
+      "part": 2,
+      "tick": 44640,
+      "values": [
+        "dolce"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 45120,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 71,
+      "notename": 6,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 45120,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 45120,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 45120,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 45120,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 45600,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 72,
+      "notename": 0,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 46080,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 69,
+      "notename": 5,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 46080,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 46080,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 46080,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 47040,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 76,
+      "notename": 2,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "tie",
+      "part": 2,
+      "tick": 47040,
+      "values": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 47040,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 47040,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 47040,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 48000,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 76,
+      "notename": 2,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 48000,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 48000,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 48000,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 48000,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 48480,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 71,
+      "notename": 6,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 48480,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 48960,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 71,
+      "notename": 6,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 48960,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 48960,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 48960,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 48960,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 49440,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 72,
+      "notename": 0,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 49920,
+      "duration": 1920,
+      "duration_log": 1,
+      "dots": 0,
+      "pitch": 69,
+      "notename": 5,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 49920,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 49920,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 49920,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 49920,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 50880,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 50880,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 50880,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 51840,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 69,
+      "notename": 5,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 51840,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 51840,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 51840,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 51840,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 52080,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 71,
+      "notename": 6,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 52320,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 72,
+      "notename": 0,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 52560,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 71,
+      "notename": 6,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 52800,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 69,
+      "notename": 5,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 52800,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 52800,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 52800,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 52800,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 52800,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 53280,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 53760,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 74,
+      "notename": 1,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 2,
+      "tick": 53760,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 53760,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 53760,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 53760,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 53760,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 65,
+      "notename": 3,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "text",
+      "part": 1,
+      "tick": 53760,
+      "values": [
+        "cresc."
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 54000,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 76,
+      "notename": 2,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 54240,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 77,
+      "notename": 3,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 54480,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 79,
+      "notename": 4,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 54720,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 81,
+      "notename": 5,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 54720,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 54720,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 54720,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 54720,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 54720,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 65,
+      "notename": 3,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 55200,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 55680,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 81,
+      "notename": 5,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 2,
+      "tick": 55680,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 55680,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 55680,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 55680,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 55680,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 55920,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 83,
+      "notename": 6,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 56160,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 84,
+      "notename": 0,
+      "octave": 2,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 56400,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 83,
+      "notename": 6,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 56640,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 81,
+      "notename": 5,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 56640,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 56640,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 56640,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 56640,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 56640,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 57120,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 57600,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 86,
+      "notename": 1,
+      "octave": 2,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "finger",
+      "part": 2,
+      "tick": 57600,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 57600,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 57600,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 57600,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 57600,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 65,
+      "notename": 3,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 57840,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 88,
+      "notename": 2,
+      "octave": 2,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 58080,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 89,
+      "notename": 3,
+      "octave": 2,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 58320,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 91,
+      "notename": 4,
+      "octave": 2,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 58560,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 93,
+      "notename": 5,
+      "octave": 2,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 58560,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 58560,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 58560,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 58560,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 58560,
+      "duration": 960,
+      "duration_log": 2,
+      "dots": 0,
+      "pitch": 65,
+      "notename": 3,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 59040,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 59520,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "text",
+      "part": 2,
+      "tick": 59520,
+      "values": [
+        "risoluto"
+      ]
+    },
+    {
+      "kind": "dynamic",
+      "part": 2,
+      "tick": 59520,
+      "values": [
+        "f"
+      ]
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 59520,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 59520,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 52,
+      "notename": 2,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 1,
+      "tick": 59520,
+      "values": [
+        "-1"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 59760,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 62,
+      "notename": 1,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 59760,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 50,
+      "notename": 1,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 60000,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 60,
+      "notename": 0,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 60000,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 48,
+      "notename": 0,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 60240,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 59,
+      "notename": 6,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 60240,
+      "duration": 240,
+      "duration_log": 4,
+      "dots": 0,
+      "pitch": 47,
+      "notename": 6,
+      "octave": -2,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 60480,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 2,
+      "tick": 60480,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 60480,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 60480,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0,
+      "pitch": 45,
+      "notename": 5,
+      "octave": -2,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "slur",
+      "part": 1,
+      "tick": 60480,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "kind": "articulation",
+      "part": 1,
+      "tick": 60480,
+      "values": [
+        "staccato"
+      ]
+    },
+    {
+      "kind": "rest",
+      "part": 2,
+      "tick": 60960,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "rest",
+      "part": 1,
+      "tick": 60960,
+      "duration": 480,
+      "duration_log": 3,
+      "dots": 0
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 61440,
+      "duration": 1920,
+      "duration_log": 1,
+      "dots": 0,
+      "pitch": 72,
+      "notename": 0,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 2,
+      "tick": 61440,
+      "duration": 1920,
+      "duration_log": 1,
+      "dots": 0,
+      "pitch": 81,
+      "notename": 5,
+      "octave": 1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "articulation",
+      "part": 2,
+      "tick": 61440,
+      "values": [
+        "fermata"
+      ]
+    },
+    {
+      "kind": "dynamic",
+      "part": 2,
+      "tick": 61440,
+      "values": [
+        "sf"
+      ]
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 61440,
+      "duration": 1920,
+      "duration_log": 1,
+      "dots": 0,
+      "pitch": 57,
+      "notename": 5,
+      "octave": -1,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "note",
+      "part": 1,
+      "tick": 61440,
+      "duration": 1920,
+      "duration_log": 1,
+      "dots": 0,
+      "pitch": 64,
+      "notename": 2,
+      "octave": 0,
+      "alteration": "0",
+      "fingerings": []
+    },
+    {
+      "kind": "articulation",
+      "part": 1,
+      "tick": 61440,
+      "values": [
+        "fermata"
+      ]
+    }
+  ]
+}

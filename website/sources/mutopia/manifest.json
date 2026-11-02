@@ -1,0 +1,26 @@
+[
+  {
+    "file": "25EF-05.ly",
+    "url": "https://www.mutopiaproject.org/ftp/BurgmullerJFF/O100/25EF-05/25EF-05.ly",
+    "sha256": "f19c5f5986cfc75d56263a4cab98eac7d3927c10bce75917766e49351280286a",
+    "license": "Public Domain",
+    "version": "Mutopia-2013/01/12-214",
+    "edition": "Collection Litolff, 19th Century"
+  },
+  {
+    "file": "25EF-06.ly",
+    "url": "https://www.mutopiaproject.org/ftp/BurgmullerJFF/O100/25EF-06/25EF-06.ly",
+    "sha256": "e3f05f6bd21543333f1843d1f024f721bba34f63699de71e09def1d0d6f5ad61",
+    "license": "Public Domain",
+    "version": "Mutopia-2013/01/12-215",
+    "edition": "Collection Litolff, 19th Century"
+  },
+  {
+    "file": "25EF-02.ly",
+    "url": "https://www.mutopiaproject.org/ftp/BurgmullerJFF/O100/25EF-02/25EF-02.ly",
+    "sha256": "9ee203a6c2059700b10d45a7a1fd7a122803793af9a2e328d634bee538819a94",
+    "license": "Public Domain",
+    "version": "Mutopia-2013/01/12-203",
+    "edition": "Collection Litolff, 19th Century"
+  }
+]

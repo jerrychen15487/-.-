@@ -1,0 +1,47 @@
+[
+  {
+    "id": "b1000005-2013-4012-8000-000000000001",
+    "title": "天真",
+    "subtitle": "布格缪勒 Op.100 No.5 · 完整作品",
+    "level": "基础",
+    "tempo": 112,
+    "duration": 51428.57142857143,
+    "notes": 414,
+    "bytes": 759412,
+    "crc": 4070627150,
+    "file": "scores/burgmuller-05.pseq",
+    "cover": "scores/burgmuller-05.png",
+    "capabilities": 7,
+    "revision": 1
+  },
+  {
+    "id": "b1000006-2013-4012-8000-000000000001",
+    "title": "进步",
+    "subtitle": "布格缪勒 Op.100 No.6 · 完整作品",
+    "level": "基础",
+    "tempo": 132,
+    "duration": 58181.818181818184,
+    "notes": 485,
+    "bytes": 645604,
+    "crc": 1117255152,
+    "file": "scores/burgmuller-06.pseq",
+    "cover": "scores/burgmuller-06.png",
+    "capabilities": 7,
+    "revision": 1
+  },
+  {
+    "id": "b1000002-2013-4012-8000-000000000001",
+    "title": "阿拉贝斯克",
+    "subtitle": "布格缪勒 Op.100 No.2 · 完整作品",
+    "level": "基础",
+    "tempo": 152,
+    "duration": 43421.05263157895,
+    "notes": 480,
+    "bytes": 1223020,
+    "crc": 445269566,
+    "file": "scores/burgmuller-02.pseq",
+    "cover": "scores/burgmuller-02.png",
+    "capabilities": 7,
+    "revision": 1
+  }
+]
